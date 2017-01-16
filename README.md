@@ -5,14 +5,21 @@ description:https://zhuanlan.zhihu.com/p/24900149
 
 ## Usage
 
-> git clone https://github.com/giscafer/airlevel-crawler.git
+```
+git clone https://github.com/giscafer/airlevel-crawler.git
+```
 
-> cd airlevel-crawler
+```
+cd airlevel-crawler
+```
 
-> npm install
+```
+npm install
+```
 
-> node app
-
+```
+node app
+```
 
 ## License
 
